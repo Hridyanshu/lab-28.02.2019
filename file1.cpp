@@ -4,13 +4,13 @@ int main()
 	int choice;
 	switch (choice)
 	{
-		case 1: addition();
+		case 1: cout<<a+b;
 		
-		case 2: subtraction();
+		case 2: cout<<a-b;
 
-		case 3: multiplication();
+		case 3: cout<<a*b;
 
-		case 4: division();
+		case 4: cout<<a/b;
 
 		default: cout<<"Bye Bye"<<endl;
 	}

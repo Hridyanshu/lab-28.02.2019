@@ -7,5 +7,7 @@ int main()
 		case 1: cout<<"Enter the name"<<endl;
 
 		case 2: cout<<"Enter the roll no"<<endl;
+
+		default: cout<<"Bye Bye"<<endl;
 	}
 }
