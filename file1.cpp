@@ -11,5 +11,7 @@ int main()
 		case 3: multiplication();
 
 		case 4: division();
+
+		default: cout<<"Bye Bye"<<endl;
 	}
 }

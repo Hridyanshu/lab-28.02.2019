@@ -7,6 +7,8 @@ int main()
 		case 1: square();
 
 		case 2: factorial();
+
+		default: cout<<"Bye Bye"<<endl;
 	}
 }
 
